@@ -1,0 +1,8 @@
+Hight of the ISS orbit is 399321.1011561444 meters and it's velocity equals to 7637.358066499188 m/s
+Orbital elements are as follows:
+h = 51760811527.42702
+i = 0.9020014444816344
+capital omega = 1.8356574678453252
+e = 0.008278478075523605
+small omega = 3.960608655053848
+theta = 3.045924954289634
